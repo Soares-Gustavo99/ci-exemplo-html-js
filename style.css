@@ -1,6 +1,7 @@
 body {
     font-family: sans-serif;
     text-align: center;
+    background-color: azure;
     }
     
     button {
@@ -10,4 +11,10 @@ body {
     color: white;
     border: none;
     cursor: pointer;
+    }
+    .imagem {
+        max-width: 100%;
+        height: 500px ;
+        width: 500px;
+        border-radius: 6in;
     }
